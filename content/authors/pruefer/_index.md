@@ -44,7 +44,7 @@ social:
 
 # List each interest with a dash
 interests:
-- Quantum Simulation with cold atoms
+- Quantum Simulation with cold atoms 
 - Experimentally testing quantum field theory concepts
 - Far-from-equilibrium dynamics
 - Thermalization of many-body systems
