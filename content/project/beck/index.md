@@ -1,6 +1,6 @@
 ---
 title: BECK machine
-summary: Ultracold spinor gases of K
+summary: Ultracold gases of Potassium
 
 authors:
 - viermann
